@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminetitrofine&label=Profile%20views&color=0e75b6&style=flat" alt="aminetitrofine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminetitrofine" alt="aminetitrofine" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps culture and tools, Machine Learning Algorithms , and Blockchain Philosophy**
+
+
+- 🌱 currently learning **DevOps culture and tools, Machine Learning Algorithms , and Blockchain Philosophy**
 
 - 📫 How to reach me **amine.titrofine@gmail.com**
 
-- ⚡ Fun fact **I am a photographer & I am obsessed with astronomy**
+- ⚡ **I am a photographer & I am obsessed with astronomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
