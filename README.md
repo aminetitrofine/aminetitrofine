@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A Software Engineering Student</h3>
+<h3 align="center">Informations Systems Engineering Student at Grenoble-INP Ensimag</h3>
+<h3 align="center">Software Engineering Student at ENSIAS</h3>
 
 
 
