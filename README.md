@@ -6,7 +6,7 @@
 
 
 
-- 🌱 currently learning **DevOps culture and tools, Machine Learning Algorithms , and Blockchain Philosophy**
+- 🌱 deeply interested in **DevOps culture and tools, and performance**
 
 - 📫 How to reach me **amine.titrofine@gmail.com**
 
