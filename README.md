@@ -6,7 +6,7 @@
 
 
 
-- 🌱 deeply interested in **DevOps culture and tools, and performance**
+- 🌱 deeply interested in **DevOps culture, tools, and performance**
 
 - 📫 How to reach me **amine.titrofine@gmail.com**
 
